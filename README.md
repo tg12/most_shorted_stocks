@@ -11,6 +11,9 @@ DISTRIBUTING THE SOFTWARE BE LIABLE FOR ANY DAMAGES OR OTHER LIABILITY,
 WHETHER IN CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THIS OR THE USE OR OTHER DEALINGS.
 
+Data updated from the FCA
+
+https://www.fca.org.uk/markets/short-selling/notification-and-disclosure-net-short-positions
 
 [Paypal Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EV8XUGXX76UXQ&source=url)
 
