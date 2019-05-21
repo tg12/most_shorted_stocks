@@ -17,6 +17,8 @@ https://www.fca.org.uk/markets/short-selling/notification-and-disclosure-net-sho
 
 [Paypal Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EV8XUGXX76UXQ&source=url)
 
+A few people have asked about donating so here's the donation addresses, any amount is appreciated, spread amongst recent contributors and if there's enough interest a service may be on the roadmap!
+
 ###### Bitcoin Cash (BCH)  - 	  qpz32c4lg7x7lnk9jg6qg7s4uavdce89myax5v5nuk
 ###### Ether (ETH) - 				    0x843d3DEC2A4705BD4f45F674F641cE2D0022c9FB
 ###### Litecoin (LTC) - 			  Lfk5y4F7KZa9oRxpazETwjQnHszEPvqPvu
