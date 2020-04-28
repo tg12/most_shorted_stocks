@@ -7,12 +7,12 @@ Most Shorted Shares since [2020-04-21]
 ##################################
 
       Name of Share Issuer  Position Holder
-0           TULLOW OIL PLC                5
-1            HAMMERSON PLC                4
-2   BABCOCK INTL GROUP PLC                3
-3     BLUE PRISM GROUP PLC                3
-4              EASYJET PLC                3
-5     KEYWORDS STUDIOS PLC                3
+0           TULLOW OIL PLC                6
+1     KEYWORDS STUDIOS PLC                5
+2              EASYJET PLC                4
+3            HAMMERSON PLC                4
+4   BABCOCK INTL GROUP PLC                3
+5     BLUE PRISM GROUP PLC                3
 6            RIGHTMOVE PLC                3
 7           Royal Mail Plc                3
 8        SAINSBURY (J) PLC                3
@@ -20,42 +20,42 @@ Most Shorted Shares since [2020-04-21]
 10      WEIR GROUP PLC/THE                3
 
         Name of Share Issuer  Net Short Position (%)
-0          PETROPAVLOVSK PLC                    4.99
-1              HAMMERSON PLC                    4.91
-2             METRO BANK PLC                    4.80
-3          SAINSBURY (J) PLC                    4.57
-4       BLUE PRISM GROUP PLC                    3.99
-5             TULLOW OIL PLC                    3.78
-6                EASYJET PLC                    3.24
-7         HALFORDS GROUP PLC                    3.08
-8                     TUI AG                    2.97
-9              A.G. Barr PLC                    2.90
-10      KEYWORDS STUDIOS PLC                    2.90
-11             RIGHTMOVE PLC                    2.61
-12               DIGNITY PLC                    2.39
-13            Royal Mail Plc                    2.32
-14        WEIR GROUP PLC/THE                    2.26
-15    BABCOCK INTL GROUP PLC                    2.16
-16              INCHCAPE PLC                    1.99
-17            Kier Group plc                    1.73
-18  HOWDEN JOINERY GROUP PLC                    1.64
-19   Burford Capital Limited                    1.63
+0             TULLOW OIL PLC                    5.67
+1              HAMMERSON PLC                    5.05
+2          PETROPAVLOVSK PLC                    5.02
+3             METRO BANK PLC                    4.71
+4          SAINSBURY (J) PLC                    4.57
+5       KEYWORDS STUDIOS PLC                    4.36
+6                EASYJET PLC                    4.28
+7   WM MORRISON SUPERMARKETS                    3.72
+8                 CAPITA PLC                    3.72
+9       BLUE PRISM GROUP PLC                    3.58
+10                    TUI AG                    3.15
+11        HALFORDS GROUP PLC                    3.08
+12             A.G. Barr PLC                    2.90
+13             RIGHTMOVE PLC                    2.61
+14       VIRGIN MONEY UK PLC                    2.60
+15             ASCENTIAL PLC                    2.44
+16               DIGNITY PLC                    2.40
+17            Royal Mail Plc                    2.23
+18        WEIR GROUP PLC/THE                    2.19
+19    BABCOCK INTL GROUP PLC                    2.16
 
 #########[+]SUMMARY MOST OVERALL SHORTED[+]######################
 #########[+]SUMMARY MOST OVERALL SHORTED[+]######################
 #########[+]SUMMARY MOST OVERALL SHORTED[+]######################
 
-[+]	RIGHTMOVE PLC
-[+]	Royal Mail Plc
-[+]	HAMMERSON PLC
-[+]	EASYJET PLC
+[+]	SAINSBURY (J) PLC
 [+]	KEYWORDS STUDIOS PLC
-[+]	BABCOCK INTL GROUP PLC
+[+]	WEIR GROUP PLC/THE
 [+]	BLUE PRISM GROUP PLC
 [+]	TUI AG
+[+]	Royal Mail Plc
 [+]	TULLOW OIL PLC
-[+]	WEIR GROUP PLC/THE
-[+]	SAINSBURY (J) PLC
+[+]	EASYJET PLC
+[+]	RIGHTMOVE PLC
+[+]	BABCOCK INTL GROUP PLC
+[+]	HAMMERSON PLC
 
 
 THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDERS OR ANYONE DISTRIBUTING THE SOFTWARE BE LIABLE FOR ANY DAMAGES OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
