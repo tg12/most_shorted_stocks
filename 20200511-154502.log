@@ -6,36 +6,42 @@ Most Shorted Shares since [2020-05-04]
 ##################################
 ##################################
 
-  Name of Share Issuer  Position Holder
-0          PEARSON PLC                3
+     Name of Share Issuer  Position Holder
+0  BABCOCK INTL GROUP PLC                3
+1           HAMMERSON PLC                3
+2             PEARSON PLC                3
+3                  TUI AG                3
 
                         Name of Share Issuer  Net Short Position (%)
-0                              HAMMERSON PLC                    6.67
+0                              HAMMERSON PLC                    7.26
 1                                PEARSON PLC                    4.29
-2                         HALFORDS GROUP PLC                    3.85
+2                         HALFORDS GROUP PLC                    3.35
 3                             TULLOW OIL PLC                    3.24
-4                                EASYJET PLC                    2.90
-5                               PETROFAC LTD                    2.62
-6                   HOWDEN JOINERY GROUP PLC                    2.18
-7                                     TUI AG                    2.17
-8                     BABCOCK INTL GROUP PLC                    2.15
-9                               INCHCAPE PLC                    1.72
-10                 Flutter Entertainment plc                    1.71
+4                                     TUI AG                    2.91
+5                                EASYJET PLC                    2.90
+6                     BABCOCK INTL GROUP PLC                    2.83
+7                               PETROFAC LTD                    2.62
+8                   HOWDEN JOINERY GROUP PLC                    2.18
+9                                 CAPITA PLC                    2.12
+10                              INCHCAPE PLC                    1.72
 11  Aston Martin Lagonda Global Holdings Plc                    1.65
-12                      KEYWORDS STUDIOS PLC                    1.41
-13                            METRO BANK PLC                    1.36
-14         INTERCONTINENTAL HOTELS GROUP PLC                    1.20
-15                                SENIOR PLC                    1.09
-16                  WM MORRISON SUPERMARKETS                    1.09
-17                        BURBERRY GROUP PLC                    1.00
-18                            Kier Group plc                    0.99
-19                  DOMINO'S PIZZA GROUP PLC                    0.89
+12                          WILLIAM HILL PLC                    1.56
+13                STANDARD LIFE ABERDEEN PLC                    1.53
+14                               MEGGITT PLC                    1.41
+15                      KEYWORDS STUDIOS PLC                    1.41
+16                 MICRO FOCUS INTERNATIONAL                    1.41
+17                            METRO BANK PLC                    1.36
+18         INTERCONTINENTAL HOTELS GROUP PLC                    1.34
+19                   CRODA INTERNATIONAL PLC                    1.34
 
 #########[+]SUMMARY MOST OVERALL SHORTED[+]######################
 #########[+]SUMMARY MOST OVERALL SHORTED[+]######################
 #########[+]SUMMARY MOST OVERALL SHORTED[+]######################
 
+[+]	BABCOCK INTL GROUP PLC
 [+]	PEARSON PLC
+[+]	HAMMERSON PLC
+[+]	TUI AG
 
 
 THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDERS OR ANYONE DISTRIBUTING THE SOFTWARE BE LIABLE FOR ANY DAMAGES OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
