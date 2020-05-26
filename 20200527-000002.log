@@ -1,19 +1,17 @@
 ##################################
 ##################################
 ##################################
-Most Shorted Shares since [2020-05-19]
+Most Shorted Shares since [2020-05-20]
 ##################################
 ##################################
 ##################################
 
      Name of Share Issuer  Position Holder
-0    KEYWORDS STUDIOS PLC                4
-1  BABCOCK INTL GROUP PLC                3
-2      BURBERRY GROUP PLC                3
-3              CAPITA PLC                3
-4            CARNIVAL PLC                3
-5             EASYJET PLC                3
-6             MEGGITT PLC                3
+0  BABCOCK INTL GROUP PLC                3
+1      BURBERRY GROUP PLC                3
+2              CAPITA PLC                3
+3            CARNIVAL PLC                3
+4             EASYJET PLC                3
 
          Name of Share Issuer  Net Short Position (%)
 0                 EASYJET PLC                    5.14
@@ -21,33 +19,31 @@ Most Shorted Shares since [2020-05-19]
 2      BABCOCK INTL GROUP PLC                    4.07
 3                CARNIVAL PLC                    3.51
 4              Royal Mail Plc                    3.40
-5        KEYWORDS STUDIOS PLC                    3.07
-6                 MEGGITT PLC                    2.84
-7                 PEARSON PLC                    2.78
-8              METRO BANK PLC                    2.72
-9   MARKS & SPENCER GROUP PLC                    2.69
-10         BURBERRY GROUP PLC                    2.53
-11                     AA PLC                    2.49
-12               INCHCAPE PLC                    2.43
-13         WEIR GROUP PLC/THE                    2.24
-14       ST JAMES'S PLACE PLC                    1.90
-15                 HISCOX LTD                    1.85
-16        VIRGIN MONEY UK PLC                    1.63
-17                     TUI AG                    1.60
-18  MICRO FOCUS INTERNATIONAL                    1.49
-19                    G4S PLC                    1.40
+5                 PEARSON PLC                    2.78
+6              METRO BANK PLC                    2.72
+7          BURBERRY GROUP PLC                    2.53
+8                      AA PLC                    2.49
+9                INCHCAPE PLC                    2.43
+10                 HISCOX LTD                    1.85
+11                     TUI AG                    1.60
+12  MICRO FOCUS INTERNATIONAL                    1.49
+13         WEIR GROUP PLC/THE                    1.46
+14                    G4S PLC                    1.40
+15                DIGNITY PLC                    1.37
+16           DUNELM GROUP PLC                    1.37
+17                MEGGITT PLC                    1.37
+18  MARKS & SPENCER GROUP PLC                    1.26
+19      WOOD GROUP (JOHN) PLC                    1.22
 
 #########[+]SUMMARY MOST OVERALL SHORTED[+]######################
 #########[+]SUMMARY MOST OVERALL SHORTED[+]######################
 #########[+]SUMMARY MOST OVERALL SHORTED[+]######################
 
+[+]	BURBERRY GROUP PLC
 [+]	EASYJET PLC
 [+]	CAPITA PLC
-[+]	MEGGITT PLC
-[+]	BURBERRY GROUP PLC
-[+]	KEYWORDS STUDIOS PLC
-[+]	BABCOCK INTL GROUP PLC
 [+]	CARNIVAL PLC
+[+]	BABCOCK INTL GROUP PLC
 
 
 THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDERS OR ANYONE DISTRIBUTING THE SOFTWARE BE LIABLE FOR ANY DAMAGES OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
