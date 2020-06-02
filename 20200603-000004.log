@@ -1,53 +1,51 @@
 ##################################
 ##################################
 ##################################
-Most Shorted Shares since [2020-05-26]
+Most Shorted Shares since [2020-05-27]
 ##################################
 ##################################
 ##################################
 
      Name of Share Issuer  Position Holder
-0             PEARSON PLC                5
-1  BABCOCK INTL GROUP PLC                4
-2             EASYJET PLC                4
-3     GREENCORE GROUP PLC                3
-4     VIRGIN MONEY UK PLC                3
-5      WEIR GROUP PLC/THE                3
-6           WHITBREAD PLC                3
+0             EASYJET PLC                4
+1             PEARSON PLC                4
+2  BABCOCK INTL GROUP PLC                3
+3     VIRGIN MONEY UK PLC                3
+4      WEIR GROUP PLC/THE                3
+5           WHITBREAD PLC                3
 
                         Name of Share Issuer  Net Short Position (%)
 0                                EASYJET PLC                    5.85
-1                     BABCOCK INTL GROUP PLC                    5.22
-2                                PEARSON PLC                    4.85
+1                                PEARSON PLC                    4.24
+2                     BABCOCK INTL GROUP PLC                    4.02
 3                        VIRGIN MONEY UK PLC                    3.22
-4                                 CAPITA PLC                    3.21
-5                              ASCENTIAL PLC                    2.55
+4                              ASCENTIAL PLC                    2.55
+5                                 CAPITA PLC                    2.47
 6                         WEIR GROUP PLC/THE                    2.45
 7                                 FUTURE PLC                    2.37
-8                                     TUI AG                    2.26
-9   Aston Martin Lagonda Global Holdings Plc                    2.26
-10                       GREENCORE GROUP PLC                    2.26
-11                            HYVE GROUP PLC                    2.09
-12                  WM MORRISON SUPERMARKETS                    2.01
-13                                HISCOX LTD                    1.88
-14                  HOWDEN JOINERY GROUP PLC                    1.88
-15                             WHITBREAD PLC                    1.88
-16                      ST JAMES'S PLACE PLC                    1.84
-17                            TULLOW OIL PLC                    1.70
-18                 MICRO FOCUS INTERNATIONAL                    1.63
-19                   CRODA INTERNATIONAL PLC                    1.50
+8   Aston Martin Lagonda Global Holdings Plc                    2.26
+9                             HYVE GROUP PLC                    2.09
+10                  WM MORRISON SUPERMARKETS                    2.01
+11                                HISCOX LTD                    1.88
+12                             WHITBREAD PLC                    1.88
+13                            TULLOW OIL PLC                    1.70
+14                 MICRO FOCUS INTERNATIONAL                    1.63
+15                   CRODA INTERNATIONAL PLC                    1.50
+16                       GREENCORE GROUP PLC                    1.49
+17                  DOMINO'S PIZZA GROUP PLC                    1.41
+18                            METRO BANK PLC                    1.40
+19                   Burford Capital Limited                    1.33
 
 #########[+]SUMMARY MOST OVERALL SHORTED[+]######################
 #########[+]SUMMARY MOST OVERALL SHORTED[+]######################
 #########[+]SUMMARY MOST OVERALL SHORTED[+]######################
 
-[+]	WHITBREAD PLC
-[+]	EASYJET PLC
-[+]	BABCOCK INTL GROUP PLC
 [+]	WEIR GROUP PLC/THE
 [+]	PEARSON PLC
+[+]	BABCOCK INTL GROUP PLC
+[+]	EASYJET PLC
 [+]	VIRGIN MONEY UK PLC
-[+]	GREENCORE GROUP PLC
+[+]	WHITBREAD PLC
 
 
 THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDERS OR ANYONE DISTRIBUTING THE SOFTWARE BE LIABLE FOR ANY DAMAGES OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
