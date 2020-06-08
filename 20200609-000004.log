@@ -1,7 +1,7 @@
 ##################################
 ##################################
 ##################################
-Most Shorted Shares since [2020-06-01]
+Most Shorted Shares since [2020-06-02]
 ##################################
 ##################################
 ##################################
@@ -9,32 +9,30 @@ Most Shorted Shares since [2020-06-01]
      Name of Share Issuer  Position Holder
 0           WHITBREAD PLC                5
 1             EASYJET PLC                4
-2          Royal Mail Plc                4
-3           ASCENTIAL PLC                3
-4  BABCOCK INTL GROUP PLC                3
-5             PEARSON PLC                3
+2  BABCOCK INTL GROUP PLC                3
+3             PEARSON PLC                3
 
                         Name of Share Issuer  Net Short Position (%)
 0                             HYVE GROUP PLC                    6.32
-1                             Royal Mail Plc                    5.49
-2                                EASYJET PLC                    5.02
+1                                EASYJET PLC                    5.02
+2                             Royal Mail Plc                    4.07
 3                              WHITBREAD PLC                    3.73
 4                                PEARSON PLC                    3.48
 5                     BABCOCK INTL GROUP PLC                    3.26
-6                              ASCENTIAL PLC                    3.17
-7                   WM MORRISON SUPERMARKETS                    2.95
-8                          SAINSBURY (J) PLC                    2.59
-9                                 HISCOX LTD                    2.52
-10                             A.G. Barr PLC                    2.40
-11                                CAPITA PLC                    2.37
+6                   WM MORRISON SUPERMARKETS                    2.95
+7                                 HISCOX LTD                    2.52
+8                              ASCENTIAL PLC                    2.49
+9                              A.G. Barr PLC                    2.40
+10                                CAPITA PLC                    2.37
+11                         SAINSBURY (J) PLC                    2.05
 12                  HOWDEN JOINERY GROUP PLC                    1.94
 13  Aston Martin Lagonda Global Holdings Plc                    1.75
-14                       INTU PROPERTIES PLC                    1.74
-15                   CRODA INTERNATIONAL PLC                    1.71
-16                               DIGNITY PLC                    1.51
-17                        BURBERRY GROUP PLC                    1.48
-18                        UDG HEALTHCARE PLC                    1.46
-19                 MICRO FOCUS INTERNATIONAL                    1.42
+14                   CRODA INTERNATIONAL PLC                    1.71
+15                               DIGNITY PLC                    1.51
+16                 MICRO FOCUS INTERNATIONAL                    1.42
+17                            METRO BANK PLC                    1.39
+18                    Arrow Global Group plc                    1.34
+19                               BEAZLEY PLC                    1.22
 
 #########[+]SUMMARY MOST OVERALL SHORTED[+]######################
 #########[+]SUMMARY MOST OVERALL SHORTED[+]######################
@@ -44,8 +42,6 @@ Most Shorted Shares since [2020-06-01]
 [+]	BABCOCK INTL GROUP PLC
 [+]	WHITBREAD PLC
 [+]	EASYJET PLC
-[+]	Royal Mail Plc
-[+]	ASCENTIAL PLC
 
 
 THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDERS OR ANYONE DISTRIBUTING THE SOFTWARE BE LIABLE FOR ANY DAMAGES OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
