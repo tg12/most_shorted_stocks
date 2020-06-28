@@ -1,45 +1,49 @@
 ##################################
 ##################################
 ##################################
-Most Shorted Shares since [2020-06-18]
+Most Shorted Shares since [2020-06-22]
 ##################################
 ##################################
 ##################################
 
        Name of Share Issuer  Position Holder
 0  DOMINO'S PIZZA GROUP PLC                5
-1             ASCENTIAL PLC                3
+1           CINEWORLD GROUP                3
 2               EASYJET PLC                3
+3               PEARSON PLC                3
+4            Royal Mail Plc                3
 
                   Name of Share Issuer  Net Short Position (%)
-0                       METRO BANK PLC                    4.36
-1                           FUTURE PLC                    3.56
-2                          PEARSON PLC                    3.25
-3                        A.G. Barr PLC                    3.07
-4             DOMINO'S PIZZA GROUP PLC                    2.90
-5          ULTRA ELECTRONICS HLDGS PLC                    2.63
-6                           CAPITA PLC                    2.61
-7                          EASYJET PLC                    2.56
-8                        ASCENTIAL PLC                    1.96
+0                          PEARSON PLC                    3.75
+1             DOMINO'S PIZZA GROUP PLC                    3.18
+2                       METRO BANK PLC                    2.81
+3                           CAPITA PLC                    2.52
+4                          EASYJET PLC                    2.29
+5            CREST NICHOLSON HLDGS PLC                    2.21
+6                       Royal Mail Plc                    2.20
+7                      CINEWORLD GROUP                    2.09
+8               BABCOCK INTL GROUP PLC                    1.93
 9                  VIRGIN MONEY UK PLC                    1.89
 10                   SAINSBURY (J) PLC                    1.87
-11            WM MORRISON SUPERMARKETS                    1.84
-12              BABCOCK INTL GROUP PLC                    1.83
-13  NETWORK INTERNATIONAL HOLDINGS PLC                    1.74
-14             LANCASHIRE HOLDINGS LTD                    1.71
-15            HOWDEN JOINERY GROUP PLC                    1.67
-16                      TULLOW OIL PLC                    1.64
-17   INTERCONTINENTAL HOTELS GROUP PLC                    1.60
-18           MICRO FOCUS INTERNATIONAL                    1.44
-19         GULF KEYSTONE PETROLEUM LTD                    1.40
+11  NETWORK INTERNATIONAL HOLDINGS PLC                    1.74
+12             LANCASHIRE HOLDINGS LTD                    1.71
+13            HOWDEN JOINERY GROUP PLC                    1.68
+14           MICRO FOCUS INTERNATIONAL                    1.44
+15                        SPECTRIS PLC                    1.42
+16                 INTU PROPERTIES PLC                    1.21
+17                        PETROFAC LTD                    1.20
+18                         DIGNITY PLC                    1.19
+19             Burford Capital Limited                    1.17
 
 #########[+]SUMMARY MOST OVERALL SHORTED[+]######################
 #########[+]SUMMARY MOST OVERALL SHORTED[+]######################
 #########[+]SUMMARY MOST OVERALL SHORTED[+]######################
 
-[+]	DOMINO'S PIZZA GROUP PLC
-[+]	ASCENTIAL PLC
 [+]	EASYJET PLC
+[+]	DOMINO'S PIZZA GROUP PLC
+[+]	PEARSON PLC
+[+]	CINEWORLD GROUP
+[+]	Royal Mail Plc
 
 
 THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDERS OR ANYONE DISTRIBUTING THE SOFTWARE BE LIABLE FOR ANY DAMAGES OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
