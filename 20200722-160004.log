@@ -8,34 +8,36 @@ Most Shorted Shares since [2020-07-15]
 
    Name of Share Issuer  Position Holder
 0  BLUE PRISM GROUP PLC                3
+1    WEIR GROUP PLC/THE                3
 
            Name of Share Issuer  Net Short Position (%)
 0                   PEARSON PLC                    3.76
-1          BLUE PRISM GROUP PLC                    2.39
-2                METRO BANK PLC                    2.38
-3                TULLOW OIL PLC                    2.29
-4                 A.G. Barr PLC                    2.19
-5                  PETROFAC LTD                    2.15
-6            WEIR GROUP PLC/THE                    1.72
+1            WEIR GROUP PLC/THE                    2.81
+2          BLUE PRISM GROUP PLC                    2.44
+3                METRO BANK PLC                    2.23
+4                  PETROFAC LTD                    2.22
+5                 A.G. Barr PLC                    2.19
+6                TULLOW OIL PLC                    1.79
 7                    FUTURE PLC                    1.44
-8                  INCHCAPE PLC                    1.35
-9             SAINSBURY (J) PLC                    1.32
-10                       TUI AG                    1.29
-11  GULF KEYSTONE PETROLEUM LTD                    1.27
-12                CRANEWARE PLC                    1.11
-13                   ROTORK PLC                    1.11
-14               KINGFISHER PLC                    1.09
-15     WM MORRISON SUPERMARKETS                    1.09
-16                   Greggs Plc                    0.93
-17                HAMMERSON PLC                    0.90
-18                  IDEAGEN PLC                    0.90
-19         MCCARTHY & STONE PLC                    0.84
+8                 HAMMERSON PLC                    1.40
+9               MITIE GROUP PLC                    1.38
+10             GVC Holdings Plc                    1.36
+11                 INCHCAPE PLC                    1.35
+12            SAINSBURY (J) PLC                    1.32
+13                       TUI AG                    1.29
+14  GULF KEYSTONE PETROLEUM LTD                    1.27
+15        VITEC GROUP PLC (THE)                    1.14
+16                CRANEWARE PLC                    1.11
+17                   ROTORK PLC                    1.11
+18               KINGFISHER PLC                    1.09
+19         RESTAURANT GROUP PLC                    1.07
 
 #########[+]SUMMARY MOST OVERALL SHORTED[+]######################
 #########[+]SUMMARY MOST OVERALL SHORTED[+]######################
 #########[+]SUMMARY MOST OVERALL SHORTED[+]######################
 
 [+]	BLUE PRISM GROUP PLC
+[+]	WEIR GROUP PLC/THE
 
 
 THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDERS OR ANYONE DISTRIBUTING THE SOFTWARE BE LIABLE FOR ANY DAMAGES OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
